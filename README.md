@@ -20,7 +20,7 @@ Realizar un programa en asp.net para calcular el descuento que un cliente recibi
 | 600.01 en adelante | 25%     |
 
 
-:white_check_mark: Resultado esperado.
+:white_check_mark: **Resultado esperado.**
 El programa deberá imprimir Monto comprado por el cliente, porcentaje aplicado de descuento, monto del descuento y total a pagar.
 
 - [x] Completado
@@ -38,7 +38,7 @@ Crear un formulario web en asp.net para calcular el salario neto que recibirá u
 | AFP       | 5% del salario, cuando el salario sea mayor de 450.00                   |
 | Seguro    | 4% del salario cuando sea menor de 1000 y en caso contrario el 6%       |
 
-:white_check_mark: Resultado esperado.
+:white_check_mark: **Resultado esperado.**
 El formulario debe de mostrar los descuentos aplicados y el salario neto (salario - descuentos).
 
 - [x] Completado
@@ -55,7 +55,7 @@ Crear un formulario web en asp.net para calcular el valor a pagar por un cliente
 | 16 hasta 20     | 40% de la compra														|
 | 21 en adelante  | 50% de la compra														|
 
-:white_check_mark: Resultado esperado.
+:white_check_mark: **Resultado esperado.**
 El formulario debe de mostrar el descuento aplicado y el total a pagar
 
 - [ ] Completado
@@ -71,7 +71,8 @@ Crear un formulario web en ASP.NET para calcular el descuento que se va a aplica
 | 1000.01 | 3000.00  | 20% de Descuento |
 | 3000.01 | En Adelante | 30% de Descuento |
 
-:white_check_mark: Resultado esperado.
+:white_check_mark: **Resultado esperado.**
+
 La compra deberá ser leída en un formulario y deberá mostrar la siguiente información:
 
 a. Valor a Descontar  
@@ -86,7 +87,7 @@ Crear un formulario en ASP.NET para capturar los datos generales del alumno. Est
 
 **Formulario:**
 
-:white_check_mark: Resultado esperado.
+:white_check_mark: **Resultado esperado.**
 
 Cuando el usuario presione clic en el botón **Calcular**, deberá mostrar la siguiente información. El archivo tendrá el nombre `notas.aspx`.
 
